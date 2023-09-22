@@ -1,0 +1,13 @@
+.child {
+    border: 2px solid black;
+    background-color: aqua;
+    width: 50px;
+}
+.parent {
+    border:2px solid red;
+    display: flex;
+    height:200px;
+}
+.two {
+    align-self:stretch;
+}
